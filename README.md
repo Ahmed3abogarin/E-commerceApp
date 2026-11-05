@@ -15,7 +15,7 @@
 
 | Home & Discover | Product Details | Cart Management |
 | :---: | :---: | :---: |
-| ![Home Screen](docs/screenshot/home_screen.png) | ![Product Screen](docs/screenshot/product_screen.png) | ![Cart Screen](docs/screenshot/cart_screen.png) |
+| <img src="docs/screenshot/home_screen.png" width="250" alt="Home Screen"/> | <img src="docs/screenshot/product_screen.png" width="250" alt="Product Screen"/> | <img src="docs/screenshot/cart_screen.png" width="250" alt="Cart Screen"/> |
 
 ---
 
